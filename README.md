@@ -12,5 +12,6 @@ Kitap Evi uygulaması, kitap evleri için ideal bir stok yönetim aracıdır ve 
 # Kullandığım Teknolojiler
 Entity Framework
 MsSql
+C#
 
 
