@@ -10,14 +10,7 @@ Bu nedenle, kitap evleri gibi farklı sektörlerde çalışanlar da kolayca kull
 Kitap Evi uygulaması, kitap evleri için ideal bir stok yönetim aracıdır ve işletmenin verimliliğini artırmaya yardımcı olur.
 
 # Kullandığım Teknolojiler
-Asp.Net Core 6.0
 Entity Framework
 MsSql
-JavaScript
-Html
-Css
-
-# Projemde Kullandığım api
-[Hava Durum Apisi](https://openweathermap.org/api)
 
 
