@@ -18,6 +18,6 @@ Html
 Css
 
 # Projemde Kullandığım api
-https://github.com/othneildrew/Best-README-Template
+[Hava Durum Apisi](https://openweathermap.org/api)
 
 
